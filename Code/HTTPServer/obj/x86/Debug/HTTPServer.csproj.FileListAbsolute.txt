@@ -1,0 +1,11 @@
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+D:\CS\1'st Term\Network\NetworkProject[2019-2020]\Template[2019-2020]\HTTPServer\bin\Debug\HTTPServer.exe
+D:\CS\1'st Term\Network\NetworkProject[2019-2020]\Template[2019-2020]\HTTPServer\bin\Debug\HTTPServer.pdb
+D:\CS\1'st Term\Network\NetworkProject[2019-2020]\Template[2019-2020]\HTTPServer\obj\x86\Debug\HTTPServer.csprojResolveAssemblyReference.cache
+D:\CS\1'st Term\Network\NetworkProject[2019-2020]\Template[2019-2020]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+D:\CS\1'st Term\Network\NetworkProject[2019-2020]\Template[2019-2020]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+D:\FCIS\4th Year\CS\Computer network\HTTP Server\HTTPServer\obj\x86\Debug\HTTPServer.exe
+D:\FCIS\4th Year\CS\Computer network\HTTP Server\HTTPServer\obj\x86\Debug\HTTPServer.pdb
